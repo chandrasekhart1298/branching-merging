@@ -1,6 +1,8 @@
 
+
 >>>>>>> feature-2
 
 hello
 
 hii
+new
